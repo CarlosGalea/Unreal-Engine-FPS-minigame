@@ -34,12 +34,11 @@ D - Moves the player to the Right;
 SPACE - Makes the player jump upward;
 
 Mouse Left Click - The player shoots the gun;
+
 Move Mouse Around - Rotates the player rotation and look angle with respect to the mouse movement.
 
 
 ## Getting Started
-
-### Dependencies
 
 ### Installing
 
